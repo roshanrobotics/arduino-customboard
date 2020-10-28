@@ -13,7 +13,7 @@
           "architecture": "avr",
           "version": "1.8.3",
           "category": "Contributed",
-          "url": "https://github.com/roshanrobotics/arduino-customboard/blob/main/custom_board/arduino-customboard-main.zip?raw=true",
+          "url": "https://github.com/roshanrobotics/arduino-customboard/blob/main/custom_board/arduino-customboard-main.zip",
           "archiveFileName": "arduino-customboard-main.zip",
           "checksum": "SHA-256:292BF95852B363E03CA16BD210EB8F0CF0D090818AB3AC52ABF93086E619F717",
           "size": "4186132",
