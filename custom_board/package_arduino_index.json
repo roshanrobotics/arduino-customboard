@@ -1,0 +1,46 @@
+{
+  "packages":
+  [
+      {
+      "name": "Roshan",
+      "maintainer": "Roshan Robotics",
+      "websiteURL": "http://www.arduino.cc/",
+      "email": "packages@arduino.cc",
+      "platforms":
+      [
+        {
+          "name": "Roshan AVR Boards",
+          "architecture": "avr",
+          "version": "1.8.3",
+          "category": "Contributed",
+          "url": "https://github.com/roshanrobotics/arduino-customboard/blob/main/custom_board/arduino-customboard-main.zip",
+          "archiveFileName": "arduino-customboard-main.zip",
+          "checksum": "SHA-256:292BF95852B363E03CA16BD210EB8F0CF0D090818AB3AC52ABF93086E619F717",
+          "size": "4186132",
+          "boards": [
+            {
+              "name": "Roshan AVR Boards test1"
+            },
+ 	    {
+              "name": "This package is used for the testing"
+            }
+          ],
+          "toolsDependencies":
+          [
+ 	    {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
