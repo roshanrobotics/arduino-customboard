@@ -11,7 +11,7 @@
         {
           "name": "Roshan AVR Boards",
           "architecture": "avr",
-          "version": "1.8.3",
+          "version": "1.6.7",
           "category": "Contributed",
           "url": "https://github.com/roshanrobotics/arduino-customboard/blob/main/custom_board/arduino-customboard-main.zip",
           "archiveFileName": "arduino-customboard-main.zip",
